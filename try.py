@@ -1,5 +1,5 @@
 import requests
-import socket
+
 import bs4
 
 # resp = requests.get("https://www.brainyquote.com/quote_of_the_day")
